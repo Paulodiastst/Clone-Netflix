@@ -4,8 +4,9 @@
 
 > Status: Finalizado
 
-### Olá, recriei a página de login do instagram com a finalidade de práticar alguns conhecimentos.
-### Olá, recriando a interface do Netflix.
+### Olá, o projeto é recriar a página inicial do Netflix. Realizado dentro do bootcamp HTML Web Developer com o intuito de colocar em prática todo o conteúdo estudado durante o curso da DIO.
+
+> Tecnogias utilizadas:
 
 -  Visual Studio Code
 
